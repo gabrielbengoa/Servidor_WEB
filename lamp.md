@@ -14,8 +14,8 @@ Atividades do curso de TI do Senac Tatuapé
 ![WEBSSH2](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/WEBSSH2.png)
 
 ### 4) Print do acesso via FTP:
-![WEBFTP](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/WEBFTP.jpg)
-![WEBFTP2](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/WEBFTP2.jpg)
+![WEBFTP](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/WEBFTP.png)
+![WEBFTP2](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/WEBFTP2.png)
 
 ### 5) Print do navegador de internet (Site):
 ![WEBsite](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/WEBsite.png)
