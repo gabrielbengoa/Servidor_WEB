@@ -9,3 +9,6 @@
 ## 3) Print do acesso SSH ao Servidor Tomcat:
 ![tomcatSSH](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/tomcatSSH.png)
 ![tomcatSSH2](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/tomcatSSH2.png)
+
+## 4) Print do acesso ao Workbench do Servidor Tomcat:
+![tomcatWorkbench](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/tomcatWorkbench.png)
