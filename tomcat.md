@@ -16,6 +16,10 @@
 ## 5) Print do navegador de internet (host manager GUI):
 ![tomcatHost](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/tomcatHost.png)
 
-## 6) Print no navegador de internet (aplicativo1.com + aplicativo2.com):
+## 6) Print do navegador de internet (aplicativo1.com + aplicativo2.com):
 ![tomcatApp1](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/tomcatApp1.png)
 ![tomcatApp2](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/tomcatApp2.png)
+
+## 7) Print do workbench acessando o Servidor Tomcat:
+![tomcatMysql](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/tomcatMysql.png)
+![tomcatMysql2](https://github.com/gabrielbengoa/Servidor_WEB/blob/master/tomcatMysql2.png)
